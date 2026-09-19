@@ -1,0 +1,2 @@
+total_transactions,total_features,fraud_transactions,fraud_rate_percent,total_transaction_amount,fraud_transaction_amount,fraud_amount_percentage,international_domestic_risk_ratio,suspicious_keyword_no_keyword_risk_ratio,international_overall_risk_ratio,suspicious_keyword_overall_risk_ratio,duplicate_rows,duplicate_transaction_ids
+5000,28,482,9.64,395903.32,39520.96,9.98,5.28,6.25,3.83,4.91,0,0
