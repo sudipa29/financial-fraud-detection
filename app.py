@@ -20,55 +20,55 @@ Pages = {
     "Dashboard": [
 
         st.Page(
-            "pages/0_Home.py",
+            "Pages/0_Home.py",
             title="Home",
             icon="🏠",
         ),
 
         st.Page(
-            "pages/01_Executive_Overview.py",
+            "Pages/01_Executive_Overview.py",
             title="Executive Overview",
             icon="📊",
         ),
 
         st.Page(
-            "pages/02_Fraud_Analysis.py",
+            "Pages/02_Fraud_Analysis.py",
             title="Transaction & Fraud Analysis",
             icon="🔍",
         ),
 
         st.Page(
-            "pages/03_Risk_Analysis.py",
+            "Pages/03_Risk_Analysis.py",
             title="Fraud Risk Analysis",
             icon="⚠️",
         ),
 
         st.Page(
-            "pages/4_model_performance.py",
+            "Pages/04_model_performance.py",
             title="Model Performance & Evaluation",
             icon="🤖",
         ),
 
         st.Page(
-            "pages/05_fraud_predictions.py",
+            "Pages/05_fraud_predictions.py",
             title="Fraud Predictions & Investigation",
             icon="🔎",
         ),
 
         st.Page(
-            "pages/06_fraud_drivers.py",
+            "Pages/06_fraud_drivers.py",
             title="Fraud Drivers & Explainability",
             icon="🧠",
         ),
 
         st.Page(
-            "pages/07_fraud_alerts.py",
+            "Pages/07_fraud_alerts.py",
             title="Fraud Alerts & Monitoring",
             icon="🚨",
         ),
 
         st.Page(
-            "pages/08_business_summary.py",
+            "Pages/08_business_summary.py",
             title="Business Summary & Decision Support",
             icon="📈",
         ),
@@ -80,6 +80,6 @@ Pages = {
 # RUN NAVIGATION
 # ============================================================
 
-pg = st.navigation(pages)
+pg = st.navigation(Pages)
 
 pg.run()
