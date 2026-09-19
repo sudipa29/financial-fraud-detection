@@ -16,7 +16,7 @@ st.set_page_config(
 # NAVIGATION
 # ============================================================
 
-pages = {
+Pages = {
     "Dashboard": [
 
         st.Page(
