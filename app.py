@@ -44,7 +44,7 @@ Pages = {
         ),
 
         st.Page(
-            "Pages/04_model_performance.py",
+            "Pages/4_model_performance.py",
             title="Model Performance & Evaluation",
             icon="🤖",
         ),
