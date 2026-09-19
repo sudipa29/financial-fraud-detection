@@ -1,0 +1,12 @@
+,Correlation_with_Fraud
+Is_International,0.28791323866099094
+Amount_vs_Average_Spend,0.024414003282085504
+Transaction_Amount,0.011636936252349512
+Account_Age_Days,0.008562993625213898
+Transaction_Month,0.0025935548769059845
+Average_Spend,0.0011137432308621217
+Is_Weekend,-0.0072717920578289595
+Transactions_per_Account_Age,-0.012053313106209931
+Previous_Transactions,-0.014648758566348563
+Transaction_Day,-0.01927616952934967
+Transaction_Hour,-0.2347649266836744

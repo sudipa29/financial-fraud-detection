@@ -1,0 +1,3 @@
+Suspicious_Keyword,Transaction_Count,Fraud_Count,Average_Amount,Fraud_Rate
+No,4740,359,79.02777004219409,7.5738396624472575
+Yes,260,123,81.96803846153846,47.30769230769231

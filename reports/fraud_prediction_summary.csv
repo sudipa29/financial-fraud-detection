@@ -1,0 +1,11 @@
+Metric,Value
+Total Transactions,5000.0
+Predicted Fraud,1284.0
+Predicted Legitimate,3716.0
+Predicted Fraud Rate (%),25.68
+High Risk Transactions,1284.0
+Medium Risk Transactions,438.0
+Low Risk Transactions,3278.0
+Flagged Transaction Amount,112920.07
+Average Fraud Probability,0.2955160140991211
+Classification Threshold,0.69
