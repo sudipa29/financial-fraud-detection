@@ -1,0 +1,5 @@
+{
+    "optimal_threshold": 0.7,
+    "threshold_selection_metric": "F1",
+    "threshold_selection_dataset": "validation"
+}

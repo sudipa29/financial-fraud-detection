@@ -1,0 +1,12 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.log
+
+data/raw/
+data/processed/forecasting/daily_forecasting_dataset.csv
+
+!data/processed/dashboard/
+!data/processed/dashboard/fraud_dashboard_data.csv

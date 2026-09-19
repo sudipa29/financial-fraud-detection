@@ -1,0 +1,5 @@
+Fraudulent,Count,Mean,Median,Minimum,Maximum,Feature
+0,4518,0.578683581230633,0.2400025,0.0,28.363287,Amount_vs_Average_Spend
+1,482,0.6850382717842324,0.247392,0.0,20.074055,Amount_vs_Average_Spend
+0,4518,0.2132183510402833,0.099252,0.000509,6.09375,Transactions_per_Account_Age
+1,482,0.19612810165975103,0.095655,0.000797,2.938462,Transactions_per_Account_Age

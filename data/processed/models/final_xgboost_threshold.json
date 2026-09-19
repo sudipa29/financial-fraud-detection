@@ -1,0 +1,12 @@
+{
+    "model": "Tuned XGBoost",
+    "threshold": 0.69,
+    "threshold_selection": "Validation F1",
+    "validation_roc_auc": 0.9006186679953496,
+    "validation_pr_auc": 0.425293274517377,
+    "test_roc_auc": 0.9020571670653909,
+    "test_pr_auc": 0.434874845060232,
+    "test_precision": 0.29069767441860467,
+    "test_recall": 0.8522727272727273,
+    "test_f1": 0.43352601156069365
+}

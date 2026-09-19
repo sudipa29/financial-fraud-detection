@@ -1,0 +1,25 @@
+Quartile,Transaction_Count,Fraud_Count,Fraud_Rate,Feature
+"(-0.001, 22.365]",1250,125,10.0,Transaction_Amount
+"(22.365, 55.455]",1250,116,9.28,Transaction_Amount
+"(55.455, 110.298]",1250,122,9.76,Transaction_Amount
+"(110.298, 653.8]",1250,119,9.520000000000001,Transaction_Amount
+"(10.009, 138.772]",1250,116,9.28,Average_Spend
+"(138.772, 261.81]",1251,124,9.91207034372502,Average_Spend
+"(261.81, 378.525]",1249,117,9.367493995196156,Average_Spend
+"(378.525, 499.99]",1250,125,10.0,Average_Spend
+"(0.999, 50.0]",1263,130,10.292953285827396,Previous_Transactions
+"(50.0, 100.0]",1251,119,9.512390087929656,Previous_Transactions
+"(100.0, 148.0]",1245,113,9.076305220883533,Previous_Transactions
+"(148.0, 199.0]",1241,120,9.6696212731668,Previous_Transactions
+"(29.999, 530.0]",1251,112,8.952837729816148,Account_Age_Days
+"(530.0, 1012.5]",1249,118,9.44755804643715,Account_Age_Days
+"(1012.5, 1496.0]",1257,136,10.819411296738265,Account_Age_Days
+"(1496.0, 1999.0]",1243,116,9.332260659694288,Account_Age_Days
+"(-0.001, 0.0913]",1250,116,9.28,Amount_vs_Average_Spend
+"(0.0913, 0.241]",1250,121,9.68,Amount_vs_Average_Spend
+"(0.241, 0.577]",1250,125,10.0,Amount_vs_Average_Spend
+"(0.577, 28.363]",1250,120,9.6,Amount_vs_Average_Spend
+"(-0.000491, 0.0504]",1250,126,10.08,Transactions_per_Account_Age
+"(0.0504, 0.0989]",1250,125,10.0,Transactions_per_Account_Age
+"(0.0989, 0.194]",1250,111,8.88,Transactions_per_Account_Age
+"(0.194, 6.094]",1250,120,9.6,Transactions_per_Account_Age

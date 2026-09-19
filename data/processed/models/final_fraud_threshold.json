@@ -1,0 +1,11 @@
+{
+    "model": "Gradient Boosting",
+    "threshold": 0.2,
+    "selection_metric": "Validation PR-AUC + Validation F1 threshold",
+    "validation_pr_auc": 0.43965792124581893,
+    "test_pr_auc": 0.35546797676375824,
+    "test_roc_auc": 0.8914099880382775,
+    "test_precision": 0.3065326633165829,
+    "test_recall": 0.6931818181818182,
+    "test_f1": 0.4250871080139373
+}
